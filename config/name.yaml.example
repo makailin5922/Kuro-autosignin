@@ -1,7 +1,7 @@
 # 控制本 config 文件是否启用
 enable: true
 # token 必填
-token: ""
+token: "eyJhbGciOiJIUzI1NiJ9.eyJjcmVhdGVkIjoxNzUwNjUzNDM4MjUxLCJ1c2VySWQiOjE4OTI1Mjg3fQ.EU8Z1IUkxNn-4DfF4Llpz6TsagcGI_-fb2Y4H7o_5gc"
 #是否完整，不完整默认系统自动补全
 completed: false
 # 是否自动补签
